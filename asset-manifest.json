@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mandisa2526/favourite-movie-app/static/css/main.f855e6bc.css",
+    "main.js": "/Mandisa2526/favourite-movie-app/static/js/main.348d5336.js",
+    "static/js/453.76fe17e5.chunk.js": "/Mandisa2526/favourite-movie-app/static/js/453.76fe17e5.chunk.js",
+    "index.html": "/Mandisa2526/favourite-movie-app/index.html",
+    "main.f855e6bc.css.map": "/Mandisa2526/favourite-movie-app/static/css/main.f855e6bc.css.map",
+    "main.348d5336.js.map": "/Mandisa2526/favourite-movie-app/static/js/main.348d5336.js.map",
+    "453.76fe17e5.chunk.js.map": "/Mandisa2526/favourite-movie-app/static/js/453.76fe17e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.348d5336.js"
+  ]
+}
